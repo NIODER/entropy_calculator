@@ -1,0 +1,1 @@
+python entropy.py -f text.txt
